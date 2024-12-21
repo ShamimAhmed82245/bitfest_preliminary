@@ -188,6 +188,7 @@ Mofa's Kitchen Buddy is a backend system for managing ingredients, storing recip
 ---
 
 ## Notes
+- Create a virtual environment
 - Media files (recipe images) are served from the `/media/` directory.
 - Use `DRF`'s browsable API for easy interaction during development.
 
